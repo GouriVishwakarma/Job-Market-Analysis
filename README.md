@@ -49,7 +49,7 @@ graph LR
 
 ## 📊 Dashboard Preview
 
-![Market Overview](docs/screenshots/dashboard_1.png)
+![Market Overview](C:\Users\asus\Documents\DATA_ANALYST_PROJECTS\job_market_dashboard\docs\screenshots/dashboard_1.png)
 *Figure 1: India Job Market Overview - Trends in job roles, locations, and experience levels.*
 
 ![Skills Demand](docs/screenshots/dashboard_2.png)
