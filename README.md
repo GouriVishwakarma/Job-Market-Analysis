@@ -49,13 +49,13 @@ graph LR
 
 ## 📊 Dashboard Preview
 
-![Market Overview](C:\Users\asus\Documents\DATA_ANALYST_PROJECTS\job_market_dashboard\docs\screenshots/dashboard_1.png)
+![Market Overview](dashboard_1.png)
 *Figure 1: India Job Market Overview - Trends in job roles, locations, and experience levels.*
 
-![Skills Demand](docs/screenshots/dashboard_2.png)
+![Skills Demand](dashboard_2.png)
 *Figure 2: Skills Demand Analysis - Most in-demand technical skills for data roles.*
 
-![Salary Trends](docs/screenshots/dashboard_3.png)
+![Salary Trends](dashboard_3.png)
 *Figure 3: Salary Trends & Compensation Insights - Pay scales by role and location.*
 
 ---
